@@ -1,0 +1,5 @@
+a, b, c = input().split()
+e, d, f = input().split()
+print(a, b, c, sep = " | ")
+print("---------")
+print(e, d, f, sep = " | ")
